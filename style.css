@@ -8,7 +8,7 @@ body {
 	font-size: 14px;
 	color: #000000;
 	background: #000000 url(background.png);
-	background-repeat:repeat-y;
+	background-repeat:repeat;
 }
 *
 {

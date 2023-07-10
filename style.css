@@ -7,8 +7,8 @@ body {
 	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 	font-size: 14px;
 	color: #000000;
-	background: #353535;
-	background-repeat:repeat-x;
+	background: #000000 url(background.png);
+	background-repeat:repeat-y;
 }
 *
 {
@@ -64,7 +64,7 @@ border-bottom:none;
 clear:both;
 width:670px;
 height:345px;
-background-color:#000000;
+background-color:#1b1b1b;
 }
 
 #mainPicture .picture
@@ -103,7 +103,7 @@ font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 margin-top:10px;
 width:670px;
 height:auto;
-background-color:#000000;
+background-color:#1b1b1b;
 }
 
 .contentBox .innerBox
@@ -154,7 +154,7 @@ font-size:9px;
 
 a
 {
-color:#484848;
+color:#000000;
 border-bottom:dotted 1px;
 }
 
